@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Maze Of Creta.unity
+- path: Assets/Escenas/Ganar/Ganar.unity
   isLoaded: 1
   isActive: 1

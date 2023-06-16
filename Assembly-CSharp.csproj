@@ -51,19 +51,23 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Maze Of Creta\Scripts\Enemy1\ControladorNavMesh.cs" />
-     <Compile Include="Assets\Maze Of Creta\Scripts\Enemy1\ControladorVision.cs" />
-     <Compile Include="Assets\Maze Of Creta\Scripts\Enemy1\EstadoAlerta.cs" />
-     <Compile Include="Assets\Maze Of Creta\Scripts\Enemy1\EstadoPatrulla.cs" />
-     <Compile Include="Assets\Maze Of Creta\Scripts\Enemy1\EstadoPersecucion.cs" />
-     <Compile Include="Assets\Maze Of Creta\Scripts\Enemy1\MaquinaDeEstados.cs" />
-     <Compile Include="Assets\Maze Of Creta\Scripts\Enemy2\ControladorNavMesh2.cs" />
-     <Compile Include="Assets\Maze Of Creta\Scripts\Enemy2\EstadoPatrulla2.cs" />
-     <Compile Include="Assets\Maze Of Creta\Scripts\Enemy2\EstadoPersecucion2.cs" />
-     <Compile Include="Assets\Maze Of Creta\Scripts\Enemy2\MaquinaDeEstados2.cs" />
-     <Compile Include="Assets\Maze Of Creta\Scripts\LevelGenerator.cs" />
-     <Compile Include="Assets\Maze Of Creta\Scripts\PlayerController.cs" />
-     <Compile Include="Assets\Maze Of Creta\Scripts\ThirdPersonCharacter.cs" />
+     <Compile Include="Assets\Escenas\Menu\mainMenu.cs" />
+     <Compile Include="Assets\Escenas\Niveles\Maze Of Creta\Scripts\CambioEscenasNivel.cs" />
+     <Compile Include="Assets\Escenas\Niveles\Maze Of Creta\Scripts\Enemy1\ControladorNavMesh.cs" />
+     <Compile Include="Assets\Escenas\Niveles\Maze Of Creta\Scripts\Enemy1\ControladorVision.cs" />
+     <Compile Include="Assets\Escenas\Niveles\Maze Of Creta\Scripts\Enemy1\EstadoAlerta.cs" />
+     <Compile Include="Assets\Escenas\Niveles\Maze Of Creta\Scripts\Enemy1\EstadoPatrulla.cs" />
+     <Compile Include="Assets\Escenas\Niveles\Maze Of Creta\Scripts\Enemy1\EstadoPersecucion.cs" />
+     <Compile Include="Assets\Escenas\Niveles\Maze Of Creta\Scripts\Enemy1\MaquinaDeEstados.cs" />
+     <Compile Include="Assets\Escenas\Niveles\Maze Of Creta\Scripts\Enemy2\ControladorNavMesh2.cs" />
+     <Compile Include="Assets\Escenas\Niveles\Maze Of Creta\Scripts\Enemy2\EstadoInvisible.cs" />
+     <Compile Include="Assets\Escenas\Niveles\Maze Of Creta\Scripts\Enemy2\EstadoPatrulla2.cs" />
+     <Compile Include="Assets\Escenas\Niveles\Maze Of Creta\Scripts\Enemy2\EstadoPersecucion2.cs" />
+     <Compile Include="Assets\Escenas\Niveles\Maze Of Creta\Scripts\Enemy2\Invisible.cs" />
+     <Compile Include="Assets\Escenas\Niveles\Maze Of Creta\Scripts\Enemy2\MaquinaDeEstados2.cs" />
+     <Compile Include="Assets\Escenas\Niveles\Maze Of Creta\Scripts\LevelGenerator.cs" />
+     <Compile Include="Assets\Escenas\Niveles\Maze Of Creta\Scripts\PlayerController.cs" />
+     <Compile Include="Assets\Escenas\Niveles\Maze Of Creta\Scripts\ThirdPersonCharacter.cs" />
      <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshLink.cs" />
      <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshModifier.cs" />
      <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshModifierVolume.cs" />
